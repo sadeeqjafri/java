@@ -1,13 +1,13 @@
 public class HelloWorld {
-    public static void main (String ar[]) {
+    public static void main (String arg[]) {
         System.out.println("This is my first java program");
-        int a = 4;
-        float b = 2.0f;
-        double c = 20.20;
-        char ch = 'a';
-        System.out.println("Interger vairable "+ a);
-        System.out.println("Float varaible "+b);
-        System.out.println("Double variable: "+c);
-        System.out.println("Char vairble: "+ch);
+       int myFirstNumber = 5;
+       int mySecondNumber = 10;
+       int myThirdNumber = 15;
+       int total = myFirstNumber + mySecondNumber + myThirdNumber;
+        System.out.println(total);
+        int mylastone= 1000 - total;
+        System.out.println(mylastone);
+
     }
 }

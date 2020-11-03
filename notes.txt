@@ -4,3 +4,6 @@
 2. Variables
 - A variable is used to store any kind of data. There are varaibles with different data types like int, char, float, double byte etc..
 - see the project for details.
+
+3. Starting Out With Expressions
+- 
